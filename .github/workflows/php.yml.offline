@@ -1,5 +1,5 @@
-# GitHub Action for PHP Template Backend API Service by HungNG
-name: Testing PHP Template Backend API Service by HungNG
+# GitHub Action for PHP Template Crawler Service by HungNG
+name: Testing PHP Template Crawler Service by HungNG
 on: [ push, pull_request ]
 jobs:
     build:
