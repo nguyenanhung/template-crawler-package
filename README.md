@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/template-crawler-package/v)](https://packagist.org/packages/template-crawler-package) [![Total Downloads](http://poser.pugx.org/nguyenanhung/template-crawler-package/downloads)](https://packagist.org/packages/nguyenanhung/template-crawler-package) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/template-crawler-package/v/unstable)](https://packagist.org/packages/nguyenanhung/template-crawler-package) [![License](http://poser.pugx.org/nguyenanhung/template-crawler-package/license)](https://packagist.org/packages/nguyenanhung/template-crawler-package) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/template-crawler-package/require/php)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/template-crawler-package.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/template-crawler-package.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/template-crawler-package.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/template-crawler-package.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/template-crawler-package.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/template-crawler-package/php)](https://packagist.org/packages/nguyenanhung/template-crawler-package)
 
 # Template start Crawler Packages
 
